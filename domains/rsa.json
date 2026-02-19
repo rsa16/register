@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "rsa16",
+    "email": "rsa165.ali@gmail.com"
+  },
+  "records": {
+    "A": [
+      "65.19.154.90"
+    ],
+    "AAAA": [
+      "2001:470:1:1ee::1002"
+    ]
+  },
+  "proxied": true
+}
